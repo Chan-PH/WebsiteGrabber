@@ -1,0 +1,9 @@
+1. GNU GPL v3 License is applied when you use this program[1]
+2. The author of this program is not responsible for any action that the end user perform when using the program. The end user shall bear all the consequences of the action taken by the end user. The author of this program shall not bear any collateral damage of any kinds in relation to the actions taken by the end user.
+3. No warranty is included when the end user use this program. The author shall not bear any fault in relation to tampered compies of the program, it is the sole responsibility of the end user to confirm and ensure that the copy of the program used is the original copy crafted by the author. Use this program at your own risks.
+4. Icon for this program is made by mynamepong[2] which you could find him on flaticon.com[3] and is licensed by CC 3.0 BY[4]
+
+[1] https://www.gnu.org/licenses/gpl-3.0.en.html
+[2] https://www.flaticon.com/authors/mynamepong
+[3] https://www.flaticon.com/
+[4] http://creativecommons.org/licenses/by/3.0/
